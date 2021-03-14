@@ -37,5 +37,5 @@ class cook:
 
 
 example = cook('recipes.txt')
-#example.getcookbook()
-example.get_shop_list_by_dishes(['Омлет', 'Фахитос'], 5)
+example.getcookbook()
+#example.get_shop_list_by_dishes(['Омлет', 'Фахитос'], 5)
